@@ -1,0 +1,23 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farmanfirnas/jsonserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farmanfirnas/jsonserver/issues"
+  },
+  "homepage": "https://github.com/farmanfirnas/jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
