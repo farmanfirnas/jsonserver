@@ -38,7 +38,7 @@
 "user":"admin"}
   ],
   "task":[],
-  "dogs": [
+  "dogs":[
     {
       "id": 1,
       "name": "Cherry",
