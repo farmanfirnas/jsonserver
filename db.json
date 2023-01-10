@@ -44,13 +44,13 @@
       "name": "Cherry",
       "age": 2,
       "place": "Visakhapatnam",
-      "gender": "Male"
+      "gender": "male"
     },
     {
       "id": 1,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
-      "gender": "Female"
+      "gender": "female"
     }]
 }
